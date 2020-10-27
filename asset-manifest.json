@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/wash-gel/static/css/main.ad632c5e.chunk.css",
+    "main.js": "/wash-gel/static/js/main.857402c7.chunk.js",
+    "main.js.map": "/wash-gel/static/js/main.857402c7.chunk.js.map",
+    "runtime-main.js": "/wash-gel/static/js/runtime-main.b4bc084c.js",
+    "runtime-main.js.map": "/wash-gel/static/js/runtime-main.b4bc084c.js.map",
+    "static/js/2.5b0a09cf.chunk.js": "/wash-gel/static/js/2.5b0a09cf.chunk.js",
+    "static/js/2.5b0a09cf.chunk.js.map": "/wash-gel/static/js/2.5b0a09cf.chunk.js.map",
+    "index.html": "/wash-gel/index.html",
+    "precache-manifest.04457bc812272acdfd625a237a4249c8.js": "/wash-gel/precache-manifest.04457bc812272acdfd625a237a4249c8.js",
+    "service-worker.js": "/wash-gel/service-worker.js",
+    "static/css/main.ad632c5e.chunk.css.map": "/wash-gel/static/css/main.ad632c5e.chunk.css.map",
+    "static/js/2.5b0a09cf.chunk.js.LICENSE.txt": "/wash-gel/static/js/2.5b0a09cf.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/wash-gel/static/media/logo.5d5d9eef.svg",
+    "static/media/unnamed.jpg": "/wash-gel/static/media/unnamed.6778b691.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b4bc084c.js",
+    "static/js/2.5b0a09cf.chunk.js",
+    "static/css/main.ad632c5e.chunk.css",
+    "static/js/main.857402c7.chunk.js"
+  ]
+}
