@@ -1,0 +1,76 @@
+.card {
+  padding: 30px 40px;
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  font-family: Roboto, sans-serif;
+  font-weight: bold;
+}
+.card .gel_picture {
+  margin-bottom: 20px;
+}
+.card img {
+  width: 100%;
+  height: 100%;
+}
+.card span {
+  display: block;
+}
+.card .name {
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+.card .price {
+  margin-right: 10px;
+}
+.card .type,
+.card .price,
+.card .v {
+  margin-bottom: 10px;
+  text-align: center;
+}
+.card .discount {
+  position: relative;
+  color: gray;
+}
+.card .discount:before {
+  content: " ";
+  display: block;
+  position: absolute;
+  top: 8px;
+  left: 1px;
+  height: 2px;
+  width: 30px;
+  background-color: red;
+  transform: rotate(-12deg);
+}
+.card .prices {
+  text-align: center;
+}
+.card .prices span {
+  display: inline-block;
+}
+.card .buy {
+  margin-top: 50px;
+  outline: none;
+  border: 1px solid black;
+  border-radius: 20px;
+  line-height: 40px;
+  background-color: white;
+  color: #78447d;
+  font-weight: bold;
+  transition: 0.2s;
+  cursor: pointer;
+}
+.card .buy:hover {
+  background-color: #d1b9ee;
+  color: white;
+  border-color: #d1b9ee;
+}
+.card .bg_white {
+  background-color: white;
+  border-radius: 20px;
+  padding: 0 10px;
+}
+/*# sourceMappingURL=poder-card.module.css.map */

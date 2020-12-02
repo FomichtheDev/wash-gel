@@ -1,10 +1,178 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f528b8e4-b61a-4b2a-bcb1-5187ae4858c1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BackDrop/BackDrop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BackDrop/backdrop.module.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Card/Card.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Card/card.module.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheckBox/Checkbox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheckBox/checkbox.module.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Contacts/Contacts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Contacts/contacts.module.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Filters/Filters.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Filters/filters.module.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Footer/Footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Footer/footer.module.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GelCard/GelCard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GelCard/gel_card.module.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GelDetail/GelDetail.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GelDetail/gel_detail.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GelDetail/gel_detail.module.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GelDetail/gel_detail.module.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GelPage/GelPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GelPage/gel_page.module.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Header/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Header/header.module.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomePage/HomePage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomePage/homepage.module.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PowderCard/PowderCard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PowderCard/poder-card.module.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PowderPage/PowderPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PowderPage/powder-page.module.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reducers/menuStatusReducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Less File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1irv3NqxGYapInqY8fNmojqxkIo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Final Project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="list.type.of.created.stylesheet" value="Less" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\wash-gel\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\wash-gel\src\images" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f528b8e4-b61a-4b2a-bcb1-5187ae4858c1" name="Default Changelist" comment="" />
+      <created>1602678324226</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602678324226</updated>
+      <workItem from="1602678326768" duration="22240000" />
+      <workItem from="1602751206803" duration="7793000" />
+      <workItem from="1602783171008" duration="3305000" />
+      <workItem from="1603116518792" duration="5394000" />
+      <workItem from="1603271720465" duration="24000" />
+      <workItem from="1603358786512" duration="10000" />
+      <workItem from="1603803703998" duration="7140000" />
+      <workItem from="1604337678236" duration="2745000" />
+      <workItem from="1604496226362" duration="7096000" />
+      <workItem from="1604572989029" duration="208000" />
+      <workItem from="1604934190807" duration="783000" />
+      <workItem from="1604940462368" duration="16000" />
+      <workItem from="1604940487851" duration="1000" />
+      <workItem from="1604940510537" duration="5000" />
+      <workItem from="1605010311352" duration="632000" />
+      <workItem from="1605438549690" duration="1309000" />
+      <workItem from="1605783570972" duration="1223000" />
+      <workItem from="1606940070537" duration="128000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="452" y="96" key="#ESLint" timestamp="1604338450015">
+      <screen x="0" y="0" width="1920" height="1041" />
+    </state>
+    <state x="452" y="96" key="#ESLint/0.0.1920.1041@0.0.1920.1041" timestamp="1604338450015" />
+    <state x="658" y="140" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1603118729346">
+      <screen x="0" y="0" width="1920" height="1041" />
+    </state>
+    <state x="658" y="140" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1041@0.0.1920.1041" timestamp="1603118729346" />
+    <state width="1893" height="3" key="GridCell.Tab.0.bottom" timestamp="1604503332509">
+      <screen x="0" y="0" width="1920" height="1041" />
+    </state>
+    <state width="1893" height="3" key="GridCell.Tab.0.bottom/0.0.1920.1041@0.0.1920.1041" timestamp="1604503332509" />
+    <state width="1893" height="3" key="GridCell.Tab.0.center" timestamp="1604503332509">
+      <screen x="0" y="0" width="1920" height="1041" />
+    </state>
+    <state width="1893" height="3" key="GridCell.Tab.0.center/0.0.1920.1041@0.0.1920.1041" timestamp="1604503332509" />
+    <state width="1893" height="3" key="GridCell.Tab.0.left" timestamp="1604503332509">
+      <screen x="0" y="0" width="1920" height="1041" />
+    </state>
+    <state width="1893" height="3" key="GridCell.Tab.0.left/0.0.1920.1041@0.0.1920.1041" timestamp="1604503332509" />
+    <state width="1893" height="3" key="GridCell.Tab.0.right" timestamp="1604503332509">
+      <screen x="0" y="0" width="1920" height="1041" />
+    </state>
+    <state width="1893" height="3" key="GridCell.Tab.0.right/0.0.1920.1041@0.0.1920.1041" timestamp="1604503332509" />
+    <state x="352" y="78" key="SettingsEditor" timestamp="1602679702072">
+      <screen x="0" y="0" width="1920" height="1041" />
+    </state>
+    <state x="352" y="78" key="SettingsEditor/0.0.1920.1041@0.0.1920.1041" timestamp="1602679702072" />
   </component>
 </project>

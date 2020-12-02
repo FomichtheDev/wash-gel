@@ -1,0 +1,30 @@
+.footer {
+  background-color: #313131;
+  font-family: 'Montserrat', sans-serif;
+  padding: 25px 0;
+  flex-grow: 0;
+}
+.footer a {
+  color: #f2f2f2;
+  font-weight: bold;
+  transition: 0.3s;
+}
+.footer a:hover {
+  color: #D1B9EE;
+}
+.footer .instagram {
+  font-size: 36px;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #D1B9EE;
+  cursor: pointer;
+  transition: 0.3s;
+}
+.footer .instagram:hover {
+  background-color: #E569E9;
+}
+/*# sourceMappingURL=footer.module.css.map */

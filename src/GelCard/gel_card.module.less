@@ -1,0 +1,84 @@
+.card {
+  padding: 30px 40px;
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  font-family: Roboto, sans-serif;
+  font-weight: bold;
+
+  .gel_picture {
+    margin-bottom: 20px;
+  }
+
+  img {
+    width: 100%;
+    height: 100%;
+  }
+
+  span {
+    display: block;
+  }
+
+  .name {
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+
+  .price{
+    margin-right: 10px;
+  }
+
+  .type, .price, .v {
+    margin-bottom: 10px;
+    text-align: center;
+  }
+
+  .discount{
+    position: relative;
+    color: gray;
+    &:before{
+      content: " ";
+      display: block;
+      position: absolute;
+      top: 8px;
+      left: 1px;
+      height: 2px;
+      width: 30px;
+      background-color: red;
+      transform: rotate(-12deg);
+    }
+  }
+
+  .prices {
+    text-align: center;
+    span {
+      display: inline-block;
+    }
+  }
+
+
+  .buy{
+    margin-top: 50px;
+    outline: none;
+    border: 1px solid black;
+    border-radius: 20px;
+    line-height: 40px;
+    background-color: white;
+    color: #78447d;
+    font-weight: bold;
+    transition:  .2s;
+    cursor: pointer;
+    &:hover{
+      background-color: #d1b9ee;
+      color: white;
+      border-color: #d1b9ee;
+    }
+  }
+
+  .bg_white{
+    background-color: white;
+    border-radius: 20px;
+    padding: 0 10px;
+  }
+}

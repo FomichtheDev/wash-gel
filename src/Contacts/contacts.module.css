@@ -1,0 +1,32 @@
+.contacts {
+  z-index: -10;
+  padding-top: 100px;
+}
+.contacts .button {
+  margin-top: 50px;
+}
+.contacts .button button {
+  width: 40%;
+}
+.contacts input::-webkit-outer-spin-button,
+.contacts input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+.contacts .p {
+  padding: 15px;
+}
+.contacts .text {
+  padding: 15px;
+  margin-bottom: 60px;
+}
+.contacts .error {
+  color: #f44336;
+}
+.contacts .center {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+/*# sourceMappingURL=contacts.module.css.map */

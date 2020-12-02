@@ -1,0 +1,92 @@
+.filter {
+  width: calc(100% - 30px);
+  margin: 70px auto 20px;
+  padding: 15px 15px;
+  display: flex;
+  position: relative;
+  border-radius: 15px;
+  background-color: #0B0014;
+  color: #a264a7;
+  font-weight: bold;
+
+  .checkboxes {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    label {
+      margin: 0;
+    }
+  }
+
+  .drop_down_menu {
+    display: inline-block;
+    position: absolute;
+    text-align: right;
+    right: 30px;
+    top: 18px;
+    z-index: 2;
+    cursor: pointer;
+
+    ul {
+      display: none;
+      background-color: white;
+      border: 1px solid black;
+      list-style: none;
+      margin: 0;
+      padding: 5px;
+
+      li {
+        text-align: left;
+        border-bottom: 1px solid black;
+
+        &:last-of-type {
+          border: none;
+        }
+      }
+    }
+
+    a {
+      display: none;
+    }
+
+    &:hover {
+      display: flex;
+      flex-direction: column;
+
+      ul {
+        display: block;
+        color: #0B0014;
+      }
+
+      a {
+        display: block;
+        cursor: pointer;
+      }
+    }
+
+
+    .filterParam {
+      display: none;
+      border: none;
+      outline: none;
+      color: #78447d;
+      background-color: white;
+      border-left: 1px solid #78447d;
+      border-right: 1px solid #78447d;
+
+      &:first-of-type, &:last-of-type {
+        border: 1px solid #0B0014;
+      }
+    }
+
+
+    .active {
+      color: #A264A7;
+    }
+  }
+
+  .link {
+    color: #0B0014;
+  }
+}

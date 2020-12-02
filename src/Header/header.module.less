@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+.header {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #0B0014;
+  padding: 20px 0;
+  z-index: 10;
+  transition: .3s ease-in;
+
+
+  .brand{
+    font-size: 28px;
+  }
+
+  .line {
+    color: white;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    align-items: center;
+
+    a{
+      color: #f2f2f2;
+      text-decoration: none;
+      font-weight: bold;
+      transition: .2s;
+
+      &:hover{
+        color: #d6a094;
+      }
+    }
+
+
+    .menu{
+      position: absolute;
+      z-index: 10;
+      left: 50px;
+      font-size: 32px;
+      cursor: pointer;
+      transition: .3s ease-in;
+    }
+
+    .opened{
+      left: 320px;
+    }
+
+    .active{
+      color: #d6a094;
+
+      &:before {
+        width: 100%;
+        left: 0;
+      }
+    }
+
+
+    .nav{
+      position: fixed;
+      left: 0;
+      top: 0;
+      bottom: 0;
+      width: 300px;
+      max-width: 300px;
+      padding: 20px 10px;
+      box-sizing: border-box;
+      z-index: 6;
+      transform: translateX(0);
+      transition: transform .32s ease-in;
+      background-color: black;
+
+      ul{
+        list-style: none;
+        text-align: left;
+        font-size: 20px;
+        li{
+          margin-bottom: 10px;
+        }
+      }
+    }
+
+    .close {
+      transform: translateX(-300px);
+    }
+
+  }
+}
+
+.scrolled{
+  position: sticky;
+  right: 0;
+  top: 0;
+}
